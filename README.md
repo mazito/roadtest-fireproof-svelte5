@@ -1,9 +1,3 @@
-# Roadtest Fireproof+Svelte5
-
-Test Fireproof+Svelte5 on mobile browsers and webview using SvelteKit.
-
-See: [Fireprooof docs](https://use-fireproof.com/docs/welcome)
-
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).

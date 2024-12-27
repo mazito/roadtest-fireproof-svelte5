@@ -1,4 +1,3 @@
-# Git ignore for SvelteKit project
 node_modules
 
 # Output

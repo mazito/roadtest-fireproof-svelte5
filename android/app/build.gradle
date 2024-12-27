@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "ar.mazito.roadtestfp"
+    namespace "ar.mazito.roadfp"
     compileSdk rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "ar.mazito.roadtestfp"
+        applicationId "ar.mazito.roadfp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

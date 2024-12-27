@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">RoadtestFireproof</string>
-    <string name="title_activity_main">RoadtestFireproof</string>
-    <string name="package_name">ar.mazito.roadtestfp</string>
-    <string name="custom_url_scheme">ar.mazito.roadtestfp</string>
+    <string name="app_name">roadtest-fireproof-svelte5</string>
+    <string name="title_activity_main">roadtest-fireproof-svelte5</string>
+    <string name="package_name">ar.mazito.roadfp</string>
+    <string name="custom_url_scheme">ar.mazito.roadfp</string>
 </resources>

@@ -1,4 +1,4 @@
-package ar.mazito.roadtestfp;
+package ar.mazito.roadfp;
 
 import com.getcapacitor.BridgeActivity;
 
