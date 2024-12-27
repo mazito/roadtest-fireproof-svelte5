@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { device } from "$lib/device";
   import { fireproof } from "use-fireproof";
 
   let 
@@ -22,8 +23,16 @@
 
 
 <div class="p-8">
-  <h1>Welcome to SvelteKit</h1>
-  <p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+  <h1>Welcome to Fireproof on SvelteKit</h1>
+
+  <div class="py-2">
+    <p class="font-bold">Cordova</p>
+    <p>
+      Device: {JSON.stringify($device.cordova || {})}
+      <br>
+      Ready? {$device.ready}
+    </p>
+  </div>
 
   <hr class="my-2"/>
   <div class="max-w-sm">
