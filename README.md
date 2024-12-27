@@ -184,6 +184,6 @@ Run npm run preview to preview your production build locally.
 
 If successfull you can now run the App in the Android emulator, and can debug it
 using the [Chrome remote debugger](https://developer.chrome.com/docs/devtools/remote-debugging), 
-by opening a Chrome tab with: [chrome://inspect/#devices](chrome://inspect/#devices).
+by opening a Chrome tab with the url: `chrome://inspect/#devices`
 
 
